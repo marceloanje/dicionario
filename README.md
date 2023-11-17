@@ -64,4 +64,4 @@ Certifique-se de ter os seguintes requisitos instalados no seu sistema:
 
 ### Mais Detalhes
 
-Um documento PDF contendo detalhes adicionais sobre o sistema está disponível [aqui](https://github.com/marceloanje/servidor_emails/blob/main/Documentacao.pdf). Esse documento oferece uma visão mais abrangente do projeto, incluindo descrições detalhadas, especificações técnicas e outras informações relevantes.
+Um documento PDF contendo detalhes adicionais sobre o sistema está disponível [aqui](https://github.com/marceloanje/dicionario/blob/main/Documentacao.pdf). Esse documento oferece uma visão mais abrangente do projeto, incluindo descrições detalhadas, especificações técnicas e outras informações relevantes.
